@@ -1,15 +1,15 @@
 {
-  "main.css": "/yuka/static/css/main.c0ac2315.chunk.css",
-  "main.js": "/yuka/static/js/main.d009c558.chunk.js",
-  "main.js.map": "/yuka/static/js/main.d009c558.chunk.js.map",
+  "main.css": "/yuka/static/css/main.9aa6d038.chunk.css",
+  "main.js": "/yuka/static/js/main.c3692cf8.chunk.js",
+  "main.js.map": "/yuka/static/js/main.c3692cf8.chunk.js.map",
   "static/css/1.de8140af.chunk.css": "/yuka/static/css/1.de8140af.chunk.css",
   "static/js/1.26b94bf0.chunk.js": "/yuka/static/js/1.26b94bf0.chunk.js",
   "static/js/1.26b94bf0.chunk.js.map": "/yuka/static/js/1.26b94bf0.chunk.js.map",
   "runtime~main.js": "/yuka/static/js/runtime~main.00bec77c.js",
   "runtime~main.js.map": "/yuka/static/js/runtime~main.00bec77c.js.map",
+  "static/css/main.9aa6d038.chunk.css.map": "/yuka/static/css/main.9aa6d038.chunk.css.map",
   "static/css/1.de8140af.chunk.css.map": "/yuka/static/css/1.de8140af.chunk.css.map",
-  "static/css/main.c0ac2315.chunk.css.map": "/yuka/static/css/main.c0ac2315.chunk.css.map",
   "index.html": "/yuka/index.html",
-  "precache-manifest.ecad55496d5cac008657416fc2797350.js": "/yuka/precache-manifest.ecad55496d5cac008657416fc2797350.js",
+  "precache-manifest.f006279630d051ba3c28d88bfba26530.js": "/yuka/precache-manifest.f006279630d051ba3c28d88bfba26530.js",
   "service-worker.js": "/yuka/service-worker.js"
 }
