@@ -1,0 +1,30 @@
+.edc-Component{
+  margin-top: 40px;
+  border: 1px solid #e0e0e8;
+  padding: 10px;
+}
+
+.eeda{
+  height: 40px;
+  line-height: 40px;
+}
+
+.eeda-text{
+  display: inline-block;
+}
+
+.eeda-title{
+  width: 230px;
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 7px;
+}
+
+.eeda-content{
+  padding-left: 10px;
+}
+
+#EDC, #CurrentTime{
+  padding-top: 3px;
+  position: absolute;
+}

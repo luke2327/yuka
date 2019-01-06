@@ -1,0 +1,10 @@
+.main{
+  position: relative;
+  top: 80px;
+  z-index: 0;
+}
+
+.main-body{
+  width: 1400px;
+  margin: 0 auto;
+}

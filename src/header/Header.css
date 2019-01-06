@@ -1,0 +1,58 @@
+a:hover{
+  text-decoration: none !important;
+}
+
+.header-main{
+  width: 100%;
+  display: block;
+  background-color: #ffffff;
+  border-bottom: 1px solid #e0e0e8;
+  padding-top: 16px;
+  position: fixed;
+  top: 0px;
+  z-index: 1;
+}
+
+.hm-content-area{
+  display: flex;
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.hm-logo{
+  width: 50px;
+  height: 50px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 25px;
+  transition: all 0.4s;
+  animation: Header-logo-spin infinite 5s linear;
+}
+
+.hm-logo:hover{
+  opacity: 0.7;
+}
+
+.hm-nav-content-area{
+  line-height: 50px;
+}
+
+.hm-nav-bar{
+  margin: 0;
+  display: flex;
+}
+
+.hm-nav-list{
+  margin-right: 40px;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+@keyframes Header-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
