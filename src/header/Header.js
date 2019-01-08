@@ -9,7 +9,7 @@ export default class Header extends React.Component {
     return(
       <header className="header-main">
         <div className="hm-content-area">
-          <Link to="/">
+          <Link to="/yuka">
             <img 
               src={header_logo}
               className="hm-logo"

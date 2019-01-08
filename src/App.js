@@ -14,7 +14,7 @@ class App extends Component {
         <div className="application">
           <Header />
           <Switch>
-            <Route exact path="/" component={Main} />
+            <Route exact path="/yuka" component={Main} />
           </Switch>
         </div>
       </Router>
