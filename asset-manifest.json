@@ -1,7 +1,7 @@
 {
   "main.css": "/yuka/static/css/main.28bf018f.chunk.css",
-  "main.js": "/yuka/static/js/main.31e95f96.chunk.js",
-  "main.js.map": "/yuka/static/js/main.31e95f96.chunk.js.map",
+  "main.js": "/yuka/static/js/main.909a7971.chunk.js",
+  "main.js.map": "/yuka/static/js/main.909a7971.chunk.js.map",
   "static/css/1.13035614.chunk.css": "/yuka/static/css/1.13035614.chunk.css",
   "static/js/1.5f851beb.chunk.js": "/yuka/static/js/1.5f851beb.chunk.js",
   "static/js/1.5f851beb.chunk.js.map": "/yuka/static/js/1.5f851beb.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.13035614.chunk.css.map": "/yuka/static/css/1.13035614.chunk.css.map",
   "static/css/main.28bf018f.chunk.css.map": "/yuka/static/css/main.28bf018f.chunk.css.map",
   "index.html": "/yuka/index.html",
-  "precache-manifest.17576cdd9f0d47834cf022ca8af5aada.js": "/yuka/precache-manifest.17576cdd9f0d47834cf022ca8af5aada.js",
+  "precache-manifest.079f27be7d69cb8533bfd26ce7f0891f.js": "/yuka/precache-manifest.079f27be7d69cb8533bfd26ce7f0891f.js",
   "service-worker.js": "/yuka/service-worker.js"
 }
