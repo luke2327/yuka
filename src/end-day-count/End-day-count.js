@@ -46,18 +46,22 @@ export default class EndDayCount extends Component {
   CurrentTime = (id) => {
     const showCurrentTime = () => {
       try{
-        const date = new Date();
-        const years = date.getFullYear();
-        const days = date.getDate();
-        const hours = date.getHours();
-        const minutes = date.getMinutes();
-        const seconds = date.getSeconds();
+        var date = new Date();
+        var days = date.getDate();
+        var hours = date.getHours();
+        var minutes = date.getMinutes();
+        var seconds = date.getSeconds();
 
-        document.getElementById(id).innerHTML = `
-        ${days < 10 ? `0${days}` : days}日 
-        ${hours < 10 ? `0${hours}` : hours}時 
-        ${minutes < 10 ? `0${minutes}` : minutes}分 
-        ${seconds < 10 ? `0${seconds}` : seconds}秒`;
+        days = days < 10 ? `0${days}` : days;
+        hours = hours < 10 ? `0${hours}` : hours;
+        minutes = minutes < 10 ? `0${minutes}` : minutes;
+        seconds = seconds < 10 ? `0${seconds}` : seconds;
+
+        document.getElementById(id).innerHTML = days + '日 ';
+        document.getElementById(id).innerHTML += hours + '時 ';
+        document.getElementById(id).innerHTML += minutes + '分 ';
+        document.getElementById(id).innerHTML += seconds + '秒';
+
       } catch(e) {
         // empty
       }

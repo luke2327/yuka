@@ -7,10 +7,7 @@
 .eeda{
   height: 40px;
   line-height: 40px;
-}
-
-.eeda-text{
-  display: inline-block;
+  display: flex;
 }
 
 .eeda-title{
@@ -22,9 +19,4 @@
 
 .eeda-content{
   padding-left: 10px;
-}
-
-#EDC, #CurrentTime{
-  padding-top: 3px;
-  position: absolute;
 }

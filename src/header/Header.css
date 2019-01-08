@@ -8,6 +8,7 @@ a:hover{
   background-color: #ffffff;
   border-bottom: 1px solid #e0e0e8;
   padding-top: 16px;
+  padding-bottom: 16px;
   position: fixed;
   top: 0px;
   z-index: 1;
@@ -46,6 +47,10 @@ a:hover{
   margin-right: 40px;
   font-size: 23px;
   font-weight: bold;
+}
+
+.hm-nav-list > a > p {
+  margin-bottom: 0px
 }
 
 @keyframes Header-logo-spin {

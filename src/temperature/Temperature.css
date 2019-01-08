@@ -1,0 +1,21 @@
+.wt-Component{
+  margin-top: 40px;
+  border: 1px solid #e0e0e8;
+  padding: 10px;
+}
+
+.w-property{
+  margin-bottom: 0px;
+  line-height: 35px;
+  padding-left: 10px;
+}
+
+.w-first{
+  width: 140px;
+}
+
+.w-title{
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 7px;
+}

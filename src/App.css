@@ -18,6 +18,15 @@
   color: white;
 }
 
+.application {
+  position: relative;
+  top: 80px;
+}
+
+.app-flex {
+  display: flex;
+}
+
 .App-link {
   color: #61dafb;
 }
