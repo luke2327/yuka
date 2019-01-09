@@ -22,21 +22,21 @@ export default class Header extends React.Component {
                   <p>メッセージ</p>
                 </Link>
               </li>
-              <li className="hm-nav-list">
+              {/* <li className="hm-nav-list">
                 <Link className="hm-nav-link" to="/voice-message">
                   <p>音声メッセージ</p>
                 </Link>
-              </li>
+              </li> */}
               <li className="hm-nav-list">
                 <Link className="hm-nav-link" to="/remembrance">
                   <p>追憶</p>
                 </Link>
               </li>
-              <li className="hm-nav-list">
+              {/* <li className="hm-nav-list">
                 <Link className="hm-nav-link" to="/test">
                   <p>テスト</p>
                 </Link>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

@@ -1,0 +1,31 @@
+.Letter-Component{
+  display: table-row;
+  width: 100%;
+  height: 100%
+}
+
+.lt-cover{
+  width: 1400px;
+  margin: 0 auto;
+}
+
+.lt-first{
+  margin-top: 123px;
+  border: 1px solid #e0e0e8;
+  padding: 10px;
+}
+
+.lt-other{
+  margin-top: 40px;
+  border: 1px solid #e0e0e8;
+  padding: 10px;
+}
+
+.lt-title{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.lt-first-image{
+  width: 50%;
+}

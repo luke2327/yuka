@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import letterJson from '../assets/letter/letter.json';
-import MessageTemplage from './Message-template';
+import MessageTemplate from './Message-template';
 import './Message.css';
 
 export default class MessageDirective extends Component{
@@ -16,7 +16,7 @@ export default class MessageDirective extends Component{
       var date = new Date()
       var dt = new Date(`2019, ${letter.month}, ${letter.date}, 00:00:00`)
       if(dt <= date){
-        return <MessageTemplage
+        return <MessageTemplate
                 key={i}
                 contents={letter.contents}
                 date={letter.date}

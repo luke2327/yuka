@@ -1,0 +1,23 @@
+.Remembrance-Component{
+  display: table-row;
+  width: 100%;
+  height: 100%;
+}
+
+.Remembrance-area{
+  width: 1400px;
+  padding: 20px;
+  margin: 0 auto;
+  border: 1px solid #e0e0e8;
+}
+
+.rt-image{
+  max-width: 31.85%;
+  max-height: 33.333333%;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.rb-cover{
+  margin-top: 120px;
+}
