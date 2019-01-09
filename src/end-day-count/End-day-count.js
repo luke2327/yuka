@@ -72,6 +72,7 @@ export default class EndDayCount extends Component {
   render() {
     return (
       <div className="edc-Component p-white">
+        <p className="edc-title">時間情報</p>
         <div className="eeda">
           <p className="eeda-title eeda-text eeda">源碩の訓練が終わる日</p>
           <p className="eeda-content eeda-text eeda">2019年 2月 7日</p>

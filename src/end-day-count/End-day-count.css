@@ -4,6 +4,13 @@
   padding: 10px;
 }
 
+.edc-title{
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding: 5px;
+}
+
 .eeda{
   height: 40px;
   line-height: 40px;

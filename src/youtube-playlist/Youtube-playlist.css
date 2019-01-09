@@ -1,0 +1,42 @@
+.yp-Component{
+  margin-top: 40px;
+  border: 1px solid #e0e0e8;
+  padding: 5px;
+}
+
+.yp-title{
+  margin-bottom: 0px;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.ypt-video-area{
+  display: inline-flex;
+  width: 302px;
+  height: 212px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+  border: 1px solid #e0e0e8;
+  margin: 7px;
+}
+
+.ypt-content-area{
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.6);
+  transition: all 0.2s;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.ypt-content-area:hover{
+  background-color: rgba(0,0,0,0.3)
+}
+
+.ypt-title{
+  color: #ffffff
+}

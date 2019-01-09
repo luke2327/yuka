@@ -7,6 +7,7 @@ export default class Temperature extends Component{
     init()
     return(
       <div className="wt-Component p-white">
+        <p className="wt-title">天気情報</p>
         <div className="app-flex">
           <div className="app-flex w-first">
             <p className="w-title">溫度</p>

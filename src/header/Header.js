@@ -18,22 +18,22 @@ export default class Header extends React.Component {
           <div className="hm-nav-content-area">
             <ul className="hm-nav-bar">
               <li className="hm-nav-list">
-                <Link to="/letter">
+                <Link className="hm-nav-link" to="/letter">
                   <p>メッセージ</p>
                 </Link>
               </li>
               <li className="hm-nav-list">
-                <Link to="/voice-message">
+                <Link className="hm-nav-link" to="/voice-message">
                   <p>音声メッセージ</p>
                 </Link>
               </li>
               <li className="hm-nav-list">
-                <Link to="/remembrance">
+                <Link className="hm-nav-link" to="/remembrance">
                   <p>追憶</p>
                 </Link>
               </li>
               <li className="hm-nav-list">
-                <Link to="/test">
+                <Link className="hm-nav-link" to="/test">
                   <p>テスト</p>
                 </Link>
               </li>

@@ -49,6 +49,10 @@ a:hover{
   font-weight: bold;
 }
 
+.hm-nav-link{
+  transition: all 0.15s
+}
+
 .hm-nav-list > a > p {
   margin-bottom: 0px
 }
