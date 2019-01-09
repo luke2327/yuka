@@ -10,6 +10,11 @@ body {
   overflow-y: scroll
 }
 
+body, html, #root{
+  width: 100%;
+  height: 100%;
+}
+
 :lang(jp) {
   font-family: "Sawarabi Gothic";
 }
@@ -29,4 +34,8 @@ p {
 
 .p-white {
   background-color: #ffffff;
+}
+
+.header-cover{
+  margin-top: 80px;
 }

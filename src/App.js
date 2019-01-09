@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import Header from './header/Header';
+import Footer from './footer/Footer';
 import Main from './main/Main';
+import Message from './message/Message';
 import { 
   BrowserRouter as Router, Route, Switch 
 } from 'react-router-dom';
@@ -15,7 +17,9 @@ class App extends Component {
           <Header />
           <Switch>
             <Route exact path="/yuka" component={Main} />
+            <Route exact path="/letter" component={Message} />
           </Switch>
+          <Footer />
         </div>
       </Router>
     );

@@ -1,0 +1,27 @@
+.Message-Component{
+  display: table-row;
+  width: 100%;
+  height: 100%;
+}
+
+.Message-area{
+  width: 1400px;
+  margin: 0 auto;
+  padding-top: 40px;
+}
+
+.mt-area{
+  margin-bottom: 40px;
+  padding: 10px;
+  background-color: #ffffff;
+  border: 1px solid #e0e0e8;
+}
+
+.mt-contents{
+  margin-bottom: 0.1rem
+}
+
+.mt-date{
+  font-size: 17px;
+  font-weight: bold;
+}
